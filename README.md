@@ -14,6 +14,8 @@ This project is designed from Benjamin Larson's Analytics4All YouTube tutorial: 
 <p>Highlight duplicates cells with Conditional Formatting</p>
 <p>Remove duplicates by using the Remove Duplicates option under Data tab</p>
 
+## Handle missing data 
+<p>Put in a placeholder by using IF statement</p>
 
 
 
