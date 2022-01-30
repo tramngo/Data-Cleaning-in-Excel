@@ -29,12 +29,11 @@ This project is designed from Benjamin Larson's Analytics4All YouTube tutorial: 
 
 ## Merge data sets
 <p>1. Insert new column next to Service in Sheet 1</p>
-<p>1a. Name new column Price</p>
-<p>1b. Move table info from Sheet 3 onto Sheet 1 by using VLOOKUP function</p>
-
-<p>2. Insert new column next to License Plate in Sheet 2</p>
-<p>2a. Use Right and LEN string functions to remove LIC in license plate</p>
-<p>2b. Copy and paste new license plate onto Sheet 1</p>
+<p>2. Name new column Price</p>
+<p>3. Move table info from Sheet 3 onto Sheet 1 by using VLOOKUP function</p>
+<p>4. Insert new column next to License Plate in Sheet 2</p>
+<p>5. Use Right and LEN string functions to remove LIC in license plate</p>
+<p>6. Copy and paste new license plate onto Sheet 1</p>
 
 <p>3. Insert two new columns next to Service in Sheet 1</p>
 <p>3a. Name two new columns Make and Model, respectively</p>
