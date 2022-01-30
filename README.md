@@ -28,17 +28,17 @@ This project is designed from Benjamin Larson's Analytics4All YouTube tutorial: 
 <p>Convert date to day of the week name using the TEXT function</p>
 
 ## Merge data sets
-<p>Insert new column next to Service in Sheet 1</p>
-<p>Name new column Price</p>
-<p>Move table info from Sheet 3 onto Sheet 1 by using VLOOKUP function</p>
+<p>1. Insert new column next to Service in Sheet 1</p>
+<p>1a. Name new column Price</p>
+<p>1b. Move table info from Sheet 3 onto Sheet 1 by using VLOOKUP function</p>
 
-<p>Insert new column next to License Plate in Sheet 2</p>
-<p>Use Right and LEN string functions to remove LIC in license plate</p>
-<p>Copy and paste new license plate onto Sheet 1</p>
+<p>2. Insert new column next to License Plate in Sheet 2</p>
+<p>2a. Use Right and LEN string functions to remove LIC in license plate</p>
+<p>2b. Copy and paste new license plate onto Sheet 1</p>
 
-<p>Insert two new columns next to Service in Sheet 1</p>
-<p>Name two new columns Make and Model, respectively</p>
-<p>Move table info from Sheet 2 onto Sheet 1 by using VLOOKUP function</p>
+<p>3. Insert two new columns next to Service in Sheet 1</p>
+<p>3a. Name two new columns Make and Model, respectively</p>
+<p>3b. Move table info from Sheet 2 onto Sheet 1 by using VLOOKUP function</p>
 
 
 
