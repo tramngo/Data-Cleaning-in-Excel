@@ -5,7 +5,6 @@ This project is designed from Benjamin Larson's Analytics4All YouTube tutorial: 
 
 ## Data Cleaning Actions
 * Find duplicates
-* Look for spelling errors
 * Handle missing data
 * Convert data
 * Merge data sets
@@ -38,9 +37,5 @@ This project is designed from Benjamin Larson's Analytics4All YouTube tutorial: 
 <p>8. Name two new columns Make and Model, respectively</p>
 <p>9. Move table info from Sheet 2 onto Sheet 1 by using VLOOKUP function</p>
 
-
-
-
-
-
-
+## Create Pivot Table
+<p>Go to Pivot Table under Insert tab to create pivot table</p>
