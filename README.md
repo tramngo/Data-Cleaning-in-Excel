@@ -34,10 +34,9 @@ This project is designed from Benjamin Larson's Analytics4All YouTube tutorial: 
 <p>4. Insert new column next to License Plate in Sheet 2</p>
 <p>5. Use Right and LEN string functions to remove LIC in license plate</p>
 <p>6. Copy and paste new license plate onto Sheet 1</p>
-
-<p>3. Insert two new columns next to Service in Sheet 1</p>
-<p>3a. Name two new columns Make and Model, respectively</p>
-<p>3b. Move table info from Sheet 2 onto Sheet 1 by using VLOOKUP function</p>
+<p>7. Insert two new columns next to Service in Sheet 1</p>
+<p>8. Name two new columns Make and Model, respectively</p>
+<p>9. Move table info from Sheet 2 onto Sheet 1 by using VLOOKUP function</p>
 
 
 
