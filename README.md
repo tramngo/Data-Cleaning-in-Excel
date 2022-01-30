@@ -30,12 +30,11 @@ This project is designed from Benjamin Larson's Analytics4All YouTube tutorial: 
 <p>1. Insert new column next to Service in Sheet 1</p>
 <p>2. Name new column Price</p>
 <p>3. Move table info from Sheet 3 onto Sheet 1 by using VLOOKUP function</p>
-<p>4. Insert new column next to License Plate in Sheet 2</p>
-<p>5. Use Right and LEN string functions to remove LIC in license plate</p>
-<p>6. Copy and paste new license plate onto Sheet 1</p>
-<p>7. Insert two new columns next to Service in Sheet 1</p>
-<p>8. Name two new columns Make and Model, respectively</p>
-<p>9. Move table info from Sheet 2 onto Sheet 1 by using VLOOKUP function</p>
+<p>4. Use nested function to remove LIC in license plate in Sheet 2</p>
+<p>5. Replace new License Plate info onto Sheet 1</p>
+<p>6. Insert two new columns next to Service in Sheet 1</p>
+<p>7. Name two new columns Make and Model, respectively</p>
+<p>8. Move table info from Sheet 2 onto Sheet 1 by using VLOOKUP function</p>
 
 ## Create Pivot Table
 <p>Go to Pivot Table under Insert tab to create pivot table</p>
